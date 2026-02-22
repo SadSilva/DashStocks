@@ -1,0 +1,8 @@
+# Framework for building the app's interactive web interface
+streamlit==1.54.0
+
+# Data manipulation and analysis with tabular structures (DataFrames)
+pandas==2.3.3
+
+# Fetches historical market data and asset info from Yahoo Finance
+yfinance==1.2.0
